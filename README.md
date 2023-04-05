@@ -10,3 +10,5 @@ Modules must be installed: tkinter, cv2, threading, time, argparse, numpy, HTTPS
 
 You need to download the yolov3.weights file at https://pjreddie.com/media/files/yolov3.weights
 and copy it to the root.
+
+After start script you can check server html http://localhost:8500/ .
